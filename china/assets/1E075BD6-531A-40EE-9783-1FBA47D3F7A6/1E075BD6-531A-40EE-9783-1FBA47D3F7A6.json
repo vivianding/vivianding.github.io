@@ -1,6 +1,20 @@
 {
   "assets" : {
-    "A245462312CDFF598F2FF296797D92A7" : {
+    "662F083F80300E3AA84D6A49A1D145D3" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "A24E95EAD787C2018714831133FD389C" : {
       "type" : "texture",
       "index" : 7,
       "assetRequest" : {
@@ -14,49 +28,7 @@
       "width" : 662,
       "height" : 137
     },
-    "E7FD3A30A49A08A4495590332CA634D0" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
-      },
-      "width" : 837,
-      "height" : 137
-    },
-    "0C49FE42BFB6D9BDCAD837AD4D96C310" : {
-      "type" : "texture",
-      "index" : 8,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "400EEB9E48D4AE0E2C2F4F38352CC17A" : {
-      "type" : "texture",
-      "index" : 5,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
-      },
-      "width" : 694,
-      "height" : 137
-    },
-    "AE3A7D24BA49321BC19F505CC25B7F3C" : {
+    "432EEF238E9894C6C0F483071A63A3EE" : {
       "type" : "texture",
       "index" : 6,
       "assetRequest" : {
@@ -70,9 +42,9 @@
       "width" : 773,
       "height" : 137
     },
-    "0E81BCEF339478C63B561F4BA4F91D6E" : {
+    "8012F4EB2F412FB74A129B28B4FA7967" : {
       "type" : "texture",
-      "index" : 9,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -81,8 +53,22 @@
       "url" : {
         "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
       },
-      "width" : 1024,
-      "height" : 768
+      "width" : 837,
+      "height" : 137
+    },
+    "68913D4EE68943DBDE1E9D19317DAA7D" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
+      },
+      "width" : 760,
+      "height" : 5
     },
     "898739B55B787A7D8F8D8E87BDBE982D" : {
       "type" : "texture",
@@ -112,9 +98,9 @@
       "width" : 760,
       "height" : 5
     },
-    "68913D4EE68943DBDE1E9D19317DAA7D" : {
+    "A1BA1ABF9868AD875825E9F92087D498" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -123,12 +109,40 @@
       "url" : {
         "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
       },
-      "width" : 760,
-      "height" : 5
+      "width" : 1024,
+      "height" : 768
+    },
+    "70671A52F22022EF0E7109FF6A6E4AAC" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
+      },
+      "width" : 694,
+      "height" : 137
+    },
+    "3F53F798DAFEF3596C9C3CC10EC3BF91" : {
+      "type" : "texture",
+      "index" : 10,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/1E075BD6-531A-40EE-9783-1FBA47D3F7A6.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "498E23C82CA78A4BCD7BA88E5243B6FC" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -164,7 +178,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 529.60899353027344,
-                "pointY" : 166.20899295806885
+                "pointY" : 166.20899200439453
               },
               "width" : 773,
               "sublayerTransform" : [
@@ -220,7 +234,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 368.89100646972656,
-                    "pointY" : 286.29100704193115
+                    "pointY" : 286.29100799560547
                   },
                   "width" : 773,
                   "sublayerTransform" : [
@@ -253,7 +267,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.47721993074996966,
-                    "pointY" : 2.0897153798681107
+                    "pointY" : 2.0897153868292371
                   }
                 },
                 "layers" : [
@@ -326,7 +340,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 361.39100646972656,
-                        "pointY" : 50.791007041931152
+                        "pointY" : 50.791007995605469
                       },
                       "width" : 773,
                       "sublayerTransform" : [
@@ -362,7 +376,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AE3A7D24BA49321BC19F505CC25B7F3C"
+                    "texture" : "432EEF238E9894C6C0F483071A63A3EE"
                   }
                 ]
               }
@@ -656,7 +670,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 561.60899353027344,
-                "pointY" : 324.59378147125244
+                "pointY" : 324.59378051757812
               },
               "width" : 837,
               "sublayerTransform" : [
@@ -712,7 +726,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 368.89100646972656,
-                    "pointY" : 127.90621852874756
+                    "pointY" : 127.90621948242188
                   },
                   "width" : 837,
                   "sublayerTransform" : [
@@ -745,7 +759,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.44072999578223004,
-                    "pointY" : 0.93362203305655156
+                    "pointY" : 0.9336220400176779
                   }
                 },
                 "layers" : [
@@ -818,7 +832,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 393.39100646972656,
-                        "pointY" : 50.406218528747559
+                        "pointY" : 50.406219482421875
                       },
                       "width" : 837,
                       "sublayerTransform" : [
@@ -854,7 +868,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E7FD3A30A49A08A4495590332CA634D0"
+                    "texture" : "8012F4EB2F412FB74A129B28B4FA7967"
                   }
                 ]
               }
@@ -1148,7 +1162,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 490.10899353027344,
-                "pointY" : 482.97860813140869
+                "pointY" : 482.97860717773438
               },
               "width" : 694,
               "sublayerTransform" : [
@@ -1204,7 +1218,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 368.89100646972656,
-                    "pointY" : -30.478608131408691
+                    "pointY" : -30.478607177734375
                   },
                   "width" : 694,
                   "sublayerTransform" : [
@@ -1237,7 +1251,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.53154323698807859,
-                    "pointY" : -0.22247159220006343
+                    "pointY" : -0.22247158523893704
                   }
                 },
                 "layers" : [
@@ -1310,7 +1324,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 321.89100646972656,
-                        "pointY" : 51.021391868591309
+                        "pointY" : 51.021392822265625
                       },
                       "width" : 694,
                       "sublayerTransform" : [
@@ -1346,7 +1360,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "400EEB9E48D4AE0E2C2F4F38352CC17A"
+                    "texture" : "70671A52F22022EF0E7109FF6A6E4AAC"
                   }
                 ]
               }
@@ -1640,7 +1654,7 @@
               "scale" : 1,
               "position" : {
                 "pointX" : 474.10899353027344,
-                "pointY" : 641.36340427398682
+                "pointY" : 641.3634033203125
               },
               "width" : 662,
               "sublayerTransform" : [
@@ -1696,7 +1710,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 368.89100646972656,
-                    "pointY" : -188.86340427398682
+                    "pointY" : -188.8634033203125
                   },
                   "width" : 662,
                   "sublayerTransform" : [
@@ -1729,7 +1743,7 @@
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.55723716989384675,
-                    "pointY" : -1.3785649947006338
+                    "pointY" : -1.3785649877395072
                   }
                 },
                 "layers" : [
@@ -1802,7 +1816,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 305.89100646972656,
-                        "pointY" : 50.636595726013184
+                        "pointY" : 50.6365966796875
                       },
                       "width" : 662,
                       "sublayerTransform" : [
@@ -1838,7 +1852,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A245462312CDFF598F2FF296797D92A7"
+                    "texture" : "A24E95EAD787C2018714831133FD389C"
                   }
                 ]
               }
@@ -1859,12 +1873,30 @@
       ],
       "accessibility" : [
         {
+          "text" : "Reason of Being",
+          "targetRectangle" : {
+            "y" : 418.97860765457153,
+            "x" : 265.05581665039062,
+            "width" : 266.185546875,
+            "height" : 43
+          }
+        },
+        {
           "text" : "Public Perception",
           "targetRectangle" : {
-            "y" : 576.86340427398682,
+            "y" : 577.36340379714966,
             "x" : 265.05581665039062,
-            "width" : 287.9423828125,
-            "height" : 44
+            "width" : 280.16015625,
+            "height" : 43
+          }
+        },
+        {
+          "text" : "Extent of outreach",
+          "targetRectangle" : {
+            "y" : 102.20899248123169,
+            "x" : 265.05581665039062,
+            "width" : 292.18359375,
+            "height" : 43
           }
         },
         {
@@ -1886,24 +1918,6 @@
           }
         },
         {
-          "text" : "Reason of Being",
-          "targetRectangle" : {
-            "y" : 418.47860813140869,
-            "x" : 265.05581665039062,
-            "width" : 273.57958984375,
-            "height" : 44
-          }
-        },
-        {
-          "text" : "How and in which ways are they influential?",
-          "targetRectangle" : {
-            "y" : 153.13656574487686,
-            "x" : 265.05581665039062,
-            "width" : 619,
-            "height" : 38
-          }
-        },
-        {
           "text" : "What does the public think of them?",
           "targetRectangle" : {
             "y" : 628.29101520776749,
@@ -1913,21 +1927,21 @@
           }
         },
         {
-          "text" : "Extent of outreach",
+          "text" : "Limitations",
           "targetRectangle" : {
-            "y" : 101.70899295806885,
+            "y" : 260.59378099441528,
             "x" : 265.05581665039062,
-            "width" : 300.2998046875,
-            "height" : 44
+            "width" : 172.072265625,
+            "height" : 43
           }
         },
         {
-          "text" : "Limitations",
+          "text" : "How and in which ways are they influential?",
           "targetRectangle" : {
-            "y" : 260.09378147125244,
+            "y" : 153.13656574487686,
             "x" : 265.05581665039062,
-            "width" : 176.85205078125,
-            "height" : 44
+            "width" : 619,
+            "height" : 38
           }
         }
       ],
@@ -2161,7 +2175,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "498E23C82CA78A4BCD7BA88E5243B6FC"
+                    "texture" : "A1BA1ABF9868AD875825E9F92087D498"
                   }
                 ]
               }
@@ -2870,7 +2884,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 561.60899353027344,
-                    "pointY" : 324.59378147125244
+                    "pointY" : 324.59378051757812
                   },
                   "width" : 837,
                   "sublayerTransform" : [
@@ -2937,7 +2951,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 393.39100646972656,
-                        "pointY" : 50.406218528747559
+                        "pointY" : 50.406219482421875
                       },
                       "width" : 837,
                       "sublayerTransform" : [
@@ -2973,7 +2987,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E7FD3A30A49A08A4495590332CA634D0"
+                    "texture" : "8012F4EB2F412FB74A129B28B4FA7967"
                   }
                 ]
               }
@@ -3052,7 +3066,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 490.10899353027344,
-                    "pointY" : 482.97860813140869
+                    "pointY" : 482.97860717773438
                   },
                   "width" : 694,
                   "sublayerTransform" : [
@@ -3119,7 +3133,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 321.89100646972656,
-                        "pointY" : 51.021391868591309
+                        "pointY" : 51.021392822265625
                       },
                       "width" : 694,
                       "sublayerTransform" : [
@@ -3155,7 +3169,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "400EEB9E48D4AE0E2C2F4F38352CC17A"
+                    "texture" : "70671A52F22022EF0E7109FF6A6E4AAC"
                   }
                 ]
               }
@@ -3234,7 +3248,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 529.60899353027344,
-                    "pointY" : 166.20899295806885
+                    "pointY" : 166.20899200439453
                   },
                   "width" : 773,
                   "sublayerTransform" : [
@@ -3301,7 +3315,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 361.39100646972656,
-                        "pointY" : 50.791007041931152
+                        "pointY" : 50.791007995605469
                       },
                       "width" : 773,
                       "sublayerTransform" : [
@@ -3337,7 +3351,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AE3A7D24BA49321BC19F505CC25B7F3C"
+                    "texture" : "432EEF238E9894C6C0F483071A63A3EE"
                   }
                 ]
               }
@@ -3416,7 +3430,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 474.10899353027344,
-                    "pointY" : 641.36340427398682
+                    "pointY" : 641.3634033203125
                   },
                   "width" : 662,
                   "sublayerTransform" : [
@@ -3483,7 +3497,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 305.89100646972656,
-                        "pointY" : 50.636595726013184
+                        "pointY" : 50.6365966796875
                       },
                       "width" : 662,
                       "sublayerTransform" : [
@@ -3519,7 +3533,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A245462312CDFF598F2FF296797D92A7"
+                    "texture" : "A24E95EAD787C2018714831133FD389C"
                   }
                 ]
               }
@@ -3708,7 +3722,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0C49FE42BFB6D9BDCAD837AD4D96C310"
+                    "texture" : "662F083F80300E3AA84D6A49A1D145D3"
                   },
                   {
                     "animations" : [
@@ -3814,7 +3828,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0E81BCEF339478C63B561F4BA4F91D6E"
+                    "texture" : "3F53F798DAFEF3596C9C3CC10EC3BF91"
                   },
                   {
                     "animations" : [
@@ -3941,12 +3955,30 @@
       ],
       "accessibility" : [
         {
+          "text" : "Reason of Being",
+          "targetRectangle" : {
+            "y" : 418.97860765457153,
+            "x" : 265.05581665039062,
+            "width" : 266.185546875,
+            "height" : 43
+          }
+        },
+        {
           "text" : "Public Perception",
           "targetRectangle" : {
-            "y" : 576.86340427398682,
+            "y" : 577.36340379714966,
             "x" : 265.05581665039062,
-            "width" : 287.9423828125,
-            "height" : 44
+            "width" : 280.16015625,
+            "height" : 43
+          }
+        },
+        {
+          "text" : "Extent of outreach",
+          "targetRectangle" : {
+            "y" : 102.20899248123169,
+            "x" : 265.05581665039062,
+            "width" : 292.18359375,
+            "height" : 43
           }
         },
         {
@@ -3968,24 +4000,6 @@
           }
         },
         {
-          "text" : "Reason of Being",
-          "targetRectangle" : {
-            "y" : 418.47860813140869,
-            "x" : 265.05581665039062,
-            "width" : 273.57958984375,
-            "height" : 44
-          }
-        },
-        {
-          "text" : "How and in which ways are they influential?",
-          "targetRectangle" : {
-            "y" : 153.13656574487686,
-            "x" : 265.05581665039062,
-            "width" : 619,
-            "height" : 38
-          }
-        },
-        {
           "text" : "What does the public think of them?",
           "targetRectangle" : {
             "y" : 628.29101520776749,
@@ -3995,21 +4009,21 @@
           }
         },
         {
-          "text" : "Extent of outreach",
+          "text" : "Limitations",
           "targetRectangle" : {
-            "y" : 101.70899295806885,
+            "y" : 260.59378099441528,
             "x" : 265.05581665039062,
-            "width" : 300.2998046875,
-            "height" : 44
+            "width" : 172.072265625,
+            "height" : 43
           }
         },
         {
-          "text" : "Limitations",
+          "text" : "How and in which ways are they influential?",
           "targetRectangle" : {
-            "y" : 260.09378147125244,
+            "y" : 153.13656574487686,
             "x" : 265.05581665039062,
-            "width" : 176.85205078125,
-            "height" : 44
+            "width" : 619,
+            "height" : 38
           }
         }
       ],
@@ -4950,7 +4964,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 561.60899353027344,
-                    "pointY" : 324.59378147125244
+                    "pointY" : 324.59378051757812
                   },
                   "width" : 837,
                   "sublayerTransform" : [
@@ -5016,7 +5030,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 393.39100646972656,
-                        "pointY" : 50.406218528747559
+                        "pointY" : 50.406219482421875
                       },
                       "width" : 837,
                       "sublayerTransform" : [
@@ -5052,7 +5066,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "E7FD3A30A49A08A4495590332CA634D0"
+                    "texture" : "8012F4EB2F412FB74A129B28B4FA7967"
                   }
                 ]
               }
@@ -5131,7 +5145,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 490.10899353027344,
-                    "pointY" : 482.97860813140869
+                    "pointY" : 482.97860717773438
                   },
                   "width" : 694,
                   "sublayerTransform" : [
@@ -5197,7 +5211,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 321.89100646972656,
-                        "pointY" : 51.021391868591309
+                        "pointY" : 51.021392822265625
                       },
                       "width" : 694,
                       "sublayerTransform" : [
@@ -5233,7 +5247,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "400EEB9E48D4AE0E2C2F4F38352CC17A"
+                    "texture" : "70671A52F22022EF0E7109FF6A6E4AAC"
                   }
                 ]
               }
@@ -5312,7 +5326,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 529.60899353027344,
-                    "pointY" : 166.20899295806885
+                    "pointY" : 166.20899200439453
                   },
                   "width" : 773,
                   "sublayerTransform" : [
@@ -5378,7 +5392,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 361.39100646972656,
-                        "pointY" : 50.791007041931152
+                        "pointY" : 50.791007995605469
                       },
                       "width" : 773,
                       "sublayerTransform" : [
@@ -5414,7 +5428,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AE3A7D24BA49321BC19F505CC25B7F3C"
+                    "texture" : "432EEF238E9894C6C0F483071A63A3EE"
                   }
                 ]
               }
@@ -5493,7 +5507,7 @@
                   "scale" : 1,
                   "position" : {
                     "pointX" : 474.10899353027344,
-                    "pointY" : 641.36340427398682
+                    "pointY" : 641.3634033203125
                   },
                   "width" : 662,
                   "sublayerTransform" : [
@@ -5559,7 +5573,7 @@
                       "scale" : 1,
                       "position" : {
                         "pointX" : 305.89100646972656,
-                        "pointY" : 50.636595726013184
+                        "pointY" : 50.6365966796875
                       },
                       "width" : 662,
                       "sublayerTransform" : [
@@ -5595,7 +5609,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A245462312CDFF598F2FF296797D92A7"
+                    "texture" : "A24E95EAD787C2018714831133FD389C"
                   }
                 ]
               }

@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "9F7FAAE13442AD4EF1E80AE7DAF948AA" : {
+    "E7B1847955EEA4A19315E8E3C0CDAEAA" : {
       "type" : "texture",
-      "index" : 8,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -11,8 +11,8 @@
       "url" : {
         "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
       },
-      "width" : 70,
-      "height" : 71
+      "width" : 572,
+      "height" : 38
     },
     "B475C7F02F2F8B4603AF49CEE196E921" : {
       "type" : "texture",
@@ -28,6 +28,35 @@
       "width" : 669,
       "height" : 99
     },
+    "9F7FAAE13442AD4EF1E80AE7DAF948AA" : {
+      "type" : "texture",
+      "index" : 8,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
+      },
+      "width" : 70,
+      "height" : 71
+    },
+    "0F50C50C003FBD3EBAC86B9C1536496A" : {
+      "url" : {
+        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
+      },
+      "height" : 257.44766235351562,
+      "movie" : "imessage-typing-gif-7.gif-0.0000-3.6700",
+      "width" : 514.89532470703125,
+      "type" : "texture",
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "index" : 14
+    },
     "6898EBF4D65755F7A09CCB18CED3F9E6" : {
       "type" : "texture",
       "index" : 11,
@@ -41,6 +70,20 @@
       },
       "width" : 592,
       "height" : 135
+    },
+    "A488660B3056A7BEDE2E4F3AAB9E7B2E" : {
+      "type" : "texture",
+      "index" : 12,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
+      },
+      "width" : 454,
+      "height" : 81
     },
     "4C685182E41F1C81E6C2800F6D79C57A" : {
       "type" : "texture",
@@ -56,9 +99,9 @@
       "width" : 628,
       "height" : 47
     },
-    "4DFF8D6A2CCDC224EF4732F1E90551B6" : {
+    "92C0160558F20AF3426CA1A2DE100AF0" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -67,22 +110,8 @@
       "url" : {
         "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
       },
-      "width" : 518,
-      "height" : 261
-    },
-    "80C949680136224DB3D1395402253C38" : {
-      "type" : "texture",
-      "index" : 2,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
-      },
-      "width" : 587,
-      "height" : 39
+      "width" : 754,
+      "height" : 131
     },
     "9F7C184F464F31235110FA6EA4AA150D" : {
       "type" : "texture",
@@ -98,9 +127,9 @@
       "width" : 518,
       "height" : 261
     },
-    "9A1F134FFFFAD917F3D4A2D3CA0E4583" : {
+    "498E23C82CA78A4BCD7BA88E5243B6FC" : {
       "type" : "texture",
-      "index" : 9,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -109,23 +138,8 @@
       "url" : {
         "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
       },
-      "width" : 46,
-      "height" : 23
-    },
-    "0F50C50C003FBD3EBAC86B9C1536496A" : {
-      "url" : {
-        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
-      },
-      "height" : 257.44766235351568,
-      "movie" : "imessage-typing-gif-7.gif-0.0000-3.6700",
-      "width" : 514.89532470703136,
-      "type" : "texture",
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "index" : 14
+      "width" : 1024,
+      "height" : 768
     },
     "B3F1F139AA14EC6D7B421566A092DDE0" : {
       "type" : "texture",
@@ -141,9 +155,9 @@
       "width" : 180,
       "height" : 22
     },
-    "498E23C82CA78A4BCD7BA88E5243B6FC" : {
+    "4DFF8D6A2CCDC224EF4732F1E90551B6" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -152,22 +166,8 @@
       "url" : {
         "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
       },
-      "width" : 1024,
-      "height" : 768
-    },
-    "92C0160558F20AF3426CA1A2DE100AF0" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
-      },
-      "width" : 754,
-      "height" : 131
+      "width" : 518,
+      "height" : 261
     },
     "imessage-typing-gif-7.gif-0.0000-3.6700" : {
       "type" : "video",
@@ -198,20 +198,6 @@
       "width" : 1042,
       "height" : 79
     },
-    "C90BF352D540AE4A6FE32281D8CB9392" : {
-      "type" : "texture",
-      "index" : 12,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
-      },
-      "width" : 466,
-      "height" : 83
-    },
     "2A75565C4CCCEE30AFAFA5E76127D6A0" : {
       "type" : "texture",
       "index" : 15,
@@ -226,7 +212,21 @@
       "width" : 930,
       "height" : 1193
     },
-    "3E55AED8CDAB9C8CDA87FEB85D946360" : {
+    "FA8FBEB673D8EACCCB6403CCE46892A2" : {
+      "type" : "texture",
+      "index" : 9,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
+      },
+      "width" : 45,
+      "height" : 23
+    },
+    "8C9BD04A3A17E72E526E583BC8516899" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -237,8 +237,8 @@
       "url" : {
         "native" : "assets\/0E54D050-B655-4EEE-BA35-DAC7737B0C37.pdf"
       },
-      "width" : 664,
-      "height" : 83
+      "width" : 646,
+      "height" : 81
     }
   },
   "events" : [
@@ -263,8 +263,8 @@
               "rotation" : 0,
               "scale" : 1,
               "position" : {
-                "pointX" : 224.59585586211404,
-                "pointY" : 607.30502010953569
+                "pointX" : 224.59585571289062,
+                "pointY" : 607.30502319335938
               },
               "width" : 518,
               "sublayerTransform" : [
@@ -319,8 +319,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 546.40414413788596,
-                    "pointY" : -92.80502010953569
+                    "pointX" : 546.40414428710938,
+                    "pointY" : -92.805023193359375
                   },
                   "width" : 518,
                   "sublayerTransform" : [
@@ -352,8 +352,8 @@
                   "height" : 261,
                   "hidden" : false,
                   "anchorPoint" : {
-                    "pointX" : 1.0548342550924439,
-                    "pointY" : -0.35557478969170764
+                    "pointX" : 1.0548342553805201,
+                    "pointY" : -0.35557480150712406
                   }
                 },
                 "layers" : [
@@ -424,8 +424,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.40414413788596,
-                        "pointY" : 128.69497989046431
+                        "pointX" : 257.40414428710938,
+                        "pointY" : 128.69497680664062
                       },
                       "width" : 518,
                       "sublayerTransform" : [
@@ -487,10 +487,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 223.04351821562972,
-                    "pointY" : 605.5288512862935
+                    "pointX" : 223.04351806640625,
+                    "pointY" : 605.52885437011719
                   },
-                  "width" : 514.89532470703136,
+                  "width" : 514.89532470703125,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -554,8 +554,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.40414413788596,
-                        "pointY" : 128.69497989046431
+                        "pointX" : 257.40414428710938,
+                        "pointY" : 128.69497680664062
                       },
                       "width" : 518,
                       "sublayerTransform" : [
@@ -614,10 +614,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.44766235351568,
-                        "pointY" : 128.72383117675784
+                        "pointX" : 257.44766235351562,
+                        "pointY" : 128.72383117675781
                       },
-                      "width" : 514.89532470703136,
+                      "width" : 514.89532470703125,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -644,7 +644,7 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 251658240,
-                      "height" : 257.44766235351568,
+                      "height" : 257.44766235351562,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
@@ -662,7 +662,7 @@
                 "volume" : 1,
                 "isStreaming" : false,
                 "isAudioOnly" : false,
-                "endTime" : 3.6699999999999964,
+                "endTime" : 3.6700000762939453,
                 "startTime" : 0,
                 "asset" : "imessage-typing-gif-7.gif-0.0000-3.6700",
                 "loopMode" : "looping"
@@ -685,30 +685,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Screen Shot 2018-05-06 at 4.44.59 PM.png",
+          "text" : "How would you identify yourselves? ",
           "targetRectangle" : {
-            "y" : 693.36882781982422,
-            "x" : -9.328125,
-            "width" : 1038.667236328125,
-            "height" : 76.34375
+            "y" : 142.66507005691528,
+            "x" : 337.1200122833252,
+            "width" : 580.2890625,
+            "height" : 43
           }
         },
         {
-          "text" : "AW",
+          "text" : "Wanghong Follower",
           "targetRectangle" : {
-            "y" : 592.52880829572678,
-            "x" : 70.506842374801636,
-            "width" : 42.50390625,
-            "height" : 32
-          }
-        },
-        {
-          "text" : "To what extent is the society influenced by Wanghongs?",
-          "targetRectangle" : {
-            "y" : 405.72754013538361,
-            "x" : 414.45721435546875,
-            "width" : 473.0146484375,
-            "height" : 88
+            "y" : 532.18896520137787,
+            "x" : 158.43255615234375,
+            "width" : 177.138671875,
+            "height" : 24
           }
         },
         {
@@ -730,30 +721,39 @@
           }
         },
         {
-          "text" : "Wanghong Follower",
+          "text" : "Screen Shot 2018-05-06 at 4.44.59 PM.png",
           "targetRectangle" : {
-            "y" : 532.18896520137787,
-            "x" : 158.43255615234375,
-            "width" : 177.138671875,
-            "height" : 24
-          }
-        },
-        {
-          "text" : "How would you identify yourselves? ",
-          "targetRectangle" : {
-            "y" : 142.16507053375244,
-            "x" : 321.2786979675293,
-            "width" : 596.408203125,
-            "height" : 44
+            "y" : 693.36882781982422,
+            "x" : -9.328125,
+            "width" : 1038.667236328125,
+            "height" : 76.34375
           }
         },
         {
           "text" : "How does Wanghong culture from social media influence you or the public? ",
           "targetRectangle" : {
-            "y" : 252.93850815296173,
+            "y" : 253.93850719928741,
             "x" : 234.156982421875,
-            "width" : 673.1904296875,
-            "height" : 88
+            "width" : 654.99609375,
+            "height" : 86
+          }
+        },
+        {
+          "text" : "AW",
+          "targetRectangle" : {
+            "y" : 593.02880930900574,
+            "x" : 71.293953001499176,
+            "width" : 40.9296875,
+            "height" : 31
+          }
+        },
+        {
+          "text" : "To what extent is the society influenced by Wanghongs?",
+          "targetRectangle" : {
+            "y" : 406.72753918170929,
+            "x" : 414.45721435546875,
+            "width" : 460.23046875,
+            "height" : 86
           }
         }
       ],
@@ -1381,10 +1381,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 599.4989128112793,
-                    "pointY" : 157.66507053375244
+                    "pointX" : 608.1180591583252,
+                    "pointY" : 157.66507005691528
                   },
-                  "width" : 587,
+                  "width" : 572,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1411,7 +1411,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 39,
+                  "height" : 38,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1428,8 +1428,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.49613131009615385,
-                      "textBaseline" : 0.73476392794878054,
+                      "textXHeight" : 0.49542557565789475,
+                      "textBaseline" : 0.74699403110303375,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1453,10 +1453,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 309.5010871887207,
-                        "pointY" : 30.334929466247559
+                        "pointX" : 301.8819408416748,
+                        "pointY" : 29.334929943084717
                       },
-                      "width" : 587,
+                      "width" : 572,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1483,14 +1483,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 39,
+                      "height" : 38,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "80C949680136224DB3D1395402253C38"
+                    "texture" : "E7B1847955EEA4A19315E8E3C0CDAEAA"
                   }
                 ]
               }
@@ -2071,10 +2071,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 562.156982421875,
-                    "pointY" : 290.43850815296173
+                    "pointX" : 553.156982421875,
+                    "pointY" : 290.43850719928741
                   },
-                  "width" : 664,
+                  "width" : 646,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2101,7 +2101,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -2118,8 +2118,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88468952782182808,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88468160894181991,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2143,10 +2143,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 336.843017578125,
-                        "pointY" : 51.561491847038269
+                        "pointX" : 327.843017578125,
+                        "pointY" : 50.561492800712585
                       },
-                      "width" : 664,
+                      "width" : 646,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -2173,14 +2173,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3E55AED8CDAB9C8CDA87FEB85D946360"
+                    "texture" : "8C9BD04A3A17E72E526E583BC8516899"
                   }
                 ]
               }
@@ -2258,8 +2258,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 224.59585586211404,
-                    "pointY" : 607.30502010953569
+                    "pointX" : 224.59585571289062,
+                    "pointY" : 607.30502319335938
                   },
                   "width" : 518,
                   "sublayerTransform" : [
@@ -2325,8 +2325,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.40414413788596,
-                        "pointY" : 128.69497989046431
+                        "pointX" : 257.40414428710938,
+                        "pointY" : 128.69497680664062
                       },
                       "width" : 518,
                       "sublayerTransform" : [
@@ -2901,10 +2901,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 89.006842374801636,
-                    "pointY" : 600.02880829572678
+                    "pointX" : 89.293953001499176,
+                    "pointY" : 600.52880930900574
                   },
-                  "width" : 46,
+                  "width" : 45,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -2948,8 +2948,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.61389690896739135,
-                      "textBaseline" : 0.92692763649899024,
+                      "textXHeight" : 0.59115998641304346,
+                      "textBaseline" : 0.8717094400654668,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2973,10 +2973,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 25.993157625198364,
-                        "pointY" : 19.971191704273224
+                        "pointX" : 24.706046998500824,
+                        "pointY" : 20.471190690994263
                       },
-                      "width" : 46,
+                      "width" : 45,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -3010,7 +3010,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9A1F134FFFFAD917F3D4A2D3CA0E4583"
+                    "texture" : "FA8FBEB673D8EACCCB6403CCE46892A2"
                   }
                 ]
               }
@@ -3626,10 +3626,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 643.45721435546875,
-                    "pointY" : 443.22754013538361
+                    "pointX" : 637.45721435546875,
+                    "pointY" : 443.22753918170929
                   },
-                  "width" : 466,
+                  "width" : 454,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -3656,7 +3656,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -3673,8 +3673,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88214774447751332,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88207706551492948,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -3698,10 +3698,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 235.54278564453125,
-                        "pointY" : 51.772459864616394
+                        "pointX" : 229.54278564453125,
+                        "pointY" : 50.77246081829071
                       },
-                      "width" : 466,
+                      "width" : 454,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -3728,14 +3728,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C90BF352D540AE4A6FE32281D8CB9392"
+                    "texture" : "A488660B3056A7BEDE2E4F3AAB9E7B2E"
                   }
                 ]
               }
@@ -4496,10 +4496,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 599.4989128112793,
-                    "pointY" : 157.66507053375244
+                    "pointX" : 608.1180591583252,
+                    "pointY" : 157.66507005691528
                   },
-                  "width" : 587,
+                  "width" : 572,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -4526,7 +4526,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 39,
+                  "height" : 38,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -4559,7 +4559,7 @@
                                 "timingControlPoint2y" : 0.89999997615814209
                               }
                             ],
-                            "beginTime" : 0.21954305889084935,
+                            "beginTime" : 0.22269948455505073,
                             "values" : [
                               {
                                 "scalar" : 1
@@ -4587,7 +4587,7 @@
                             "from" : {
                               "scalar" : 1
                             },
-                            "beginTime" : 0.21954305889084935,
+                            "beginTime" : 0.22269948455505073,
                             "repeatCount" : 0,
                             "fillMode" : "both",
                             "duration" : 0.75,
@@ -4624,8 +4624,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.49613131009615385,
-                      "textBaseline" : 0.73476392794878054,
+                      "textXHeight" : 0.49542557565789475,
+                      "textBaseline" : 0.74699403110303375,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -4649,10 +4649,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 309.5010871887207,
-                        "pointY" : 30.334929466247559
+                        "pointX" : 301.8819408416748,
+                        "pointY" : 29.334929943084717
                       },
-                      "width" : 587,
+                      "width" : 572,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -4679,14 +4679,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 39,
+                      "height" : 38,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "80C949680136224DB3D1395402253C38"
+                    "texture" : "E7B1847955EEA4A19315E8E3C0CDAEAA"
                   }
                 ]
               },
@@ -5258,10 +5258,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 562.156982421875,
-                    "pointY" : 290.43850815296173
+                    "pointX" : 553.156982421875,
+                    "pointY" : 290.43850719928741
                   },
-                  "width" : 664,
+                  "width" : 646,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -5288,7 +5288,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -5321,7 +5321,7 @@
                                 "timingControlPoint2y" : 0.89999997615814209
                               }
                             ],
-                            "beginTime" : 0.20586803555488586,
+                            "beginTime" : 0.20257213711738586,
                             "values" : [
                               {
                                 "scalar" : 1
@@ -5349,7 +5349,7 @@
                             "from" : {
                               "scalar" : 1
                             },
-                            "beginTime" : 0.20586803555488586,
+                            "beginTime" : 0.20257213711738586,
                             "repeatCount" : 0,
                             "fillMode" : "both",
                             "duration" : 0.75,
@@ -5386,8 +5386,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88468952782182808,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88468160894181991,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -5411,10 +5411,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 336.843017578125,
-                        "pointY" : 51.561491847038269
+                        "pointX" : 327.843017578125,
+                        "pointY" : 50.561492800712585
                       },
-                      "width" : 664,
+                      "width" : 646,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -5441,14 +5441,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3E55AED8CDAB9C8CDA87FEB85D946360"
+                    "texture" : "8C9BD04A3A17E72E526E583BC8516899"
                   }
                 ]
               },
@@ -5469,8 +5469,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 224.59585586211404,
-                    "pointY" : 607.30502010953569
+                    "pointX" : 224.59585571289062,
+                    "pointY" : 607.30502319335938
                   },
                   "width" : 518,
                   "sublayerTransform" : [
@@ -5532,7 +5532,7 @@
                                 "timingControlPoint2y" : 0.89999997615814209
                               }
                             ],
-                            "beginTime" : 0.082249458933879652,
+                            "beginTime" : 0.082249458879232407,
                             "values" : [
                               {
                                 "scalar" : 1
@@ -5560,7 +5560,7 @@
                             "from" : {
                               "scalar" : 1
                             },
-                            "beginTime" : 0.082249458933879652,
+                            "beginTime" : 0.082249458879232407,
                             "repeatCount" : 0,
                             "fillMode" : "both",
                             "duration" : 0.75,
@@ -5616,8 +5616,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.40414413788596,
-                        "pointY" : 128.69497989046431
+                        "pointX" : 257.40414428710938,
+                        "pointY" : 128.69497680664062
                       },
                       "width" : 518,
                       "sublayerTransform" : [
@@ -6183,10 +6183,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 89.006842374801636,
-                    "pointY" : 600.02880829572678
+                    "pointX" : 89.293953001499176,
+                    "pointY" : 600.52880930900574
                   },
-                  "width" : 46,
+                  "width" : 45,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -6246,7 +6246,7 @@
                                 "timingControlPoint2y" : 0.89999997615814209
                               }
                             ],
-                            "beginTime" : 0.032595279189990833,
+                            "beginTime" : 0.032700422241759952,
                             "values" : [
                               {
                                 "scalar" : 1
@@ -6274,7 +6274,7 @@
                             "from" : {
                               "scalar" : 1
                             },
-                            "beginTime" : 0.032595279189990833,
+                            "beginTime" : 0.032700422241759952,
                             "repeatCount" : 0,
                             "fillMode" : "both",
                             "duration" : 0.75,
@@ -6311,8 +6311,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.61389690896739135,
-                      "textBaseline" : 0.92692763649899024,
+                      "textXHeight" : 0.59115998641304346,
+                      "textBaseline" : 0.8717094400654668,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -6336,10 +6336,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 25.993157625198364,
-                        "pointY" : 19.971191704273224
+                        "pointX" : 24.706046998500824,
+                        "pointY" : 20.471190690994263
                       },
-                      "width" : 46,
+                      "width" : 45,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -6373,7 +6373,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9A1F134FFFFAD917F3D4A2D3CA0E4583"
+                    "texture" : "FA8FBEB673D8EACCCB6403CCE46892A2"
                   }
                 ]
               },
@@ -6980,10 +6980,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 643.45721435546875,
-                    "pointY" : 443.22754013538361
+                    "pointX" : 637.45721435546875,
+                    "pointY" : 443.22753918170929
                   },
-                  "width" : 466,
+                  "width" : 454,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -7010,7 +7010,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -7043,7 +7043,7 @@
                                 "timingControlPoint2y" : 0.89999997615814209
                               }
                             ],
-                            "beginTime" : 0.23564106971025467,
+                            "beginTime" : 0.23344380408525467,
                             "values" : [
                               {
                                 "scalar" : 1
@@ -7071,7 +7071,7 @@
                             "from" : {
                               "scalar" : 1
                             },
-                            "beginTime" : 0.23564106971025467,
+                            "beginTime" : 0.23344380408525467,
                             "repeatCount" : 0,
                             "fillMode" : "both",
                             "duration" : 0.75,
@@ -7108,8 +7108,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88214774447751332,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88207706551492948,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -7133,10 +7133,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 235.54278564453125,
-                        "pointY" : 51.772459864616394
+                        "pointX" : 229.54278564453125,
+                        "pointY" : 50.77246081829071
                       },
-                      "width" : 466,
+                      "width" : 454,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -7163,14 +7163,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C90BF352D540AE4A6FE32281D8CB9392"
+                    "texture" : "A488660B3056A7BEDE2E4F3AAB9E7B2E"
                   }
                 ]
               },
@@ -7407,30 +7407,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Screen Shot 2018-05-06 at 4.44.59 PM.png",
+          "text" : "How would you identify yourselves? ",
           "targetRectangle" : {
-            "y" : 693.36882781982422,
-            "x" : -9.328125,
-            "width" : 1038.667236328125,
-            "height" : 76.34375
+            "y" : 142.66507005691528,
+            "x" : 337.1200122833252,
+            "width" : 580.2890625,
+            "height" : 43
           }
         },
         {
-          "text" : "AW",
+          "text" : "Wanghong Follower",
           "targetRectangle" : {
-            "y" : 592.52880829572678,
-            "x" : 70.506842374801636,
-            "width" : 42.50390625,
-            "height" : 32
-          }
-        },
-        {
-          "text" : "To what extent is the society influenced by Wanghongs?",
-          "targetRectangle" : {
-            "y" : 405.72754013538361,
-            "x" : 414.45721435546875,
-            "width" : 473.0146484375,
-            "height" : 88
+            "y" : 532.18896520137787,
+            "x" : 158.43255615234375,
+            "width" : 177.138671875,
+            "height" : 24
           }
         },
         {
@@ -7452,30 +7443,39 @@
           }
         },
         {
-          "text" : "Wanghong Follower",
+          "text" : "Screen Shot 2018-05-06 at 4.44.59 PM.png",
           "targetRectangle" : {
-            "y" : 532.18896520137787,
-            "x" : 158.43255615234375,
-            "width" : 177.138671875,
-            "height" : 24
-          }
-        },
-        {
-          "text" : "How would you identify yourselves? ",
-          "targetRectangle" : {
-            "y" : 142.16507053375244,
-            "x" : 321.2786979675293,
-            "width" : 596.408203125,
-            "height" : 44
+            "y" : 693.36882781982422,
+            "x" : -9.328125,
+            "width" : 1038.667236328125,
+            "height" : 76.34375
           }
         },
         {
           "text" : "How does Wanghong culture from social media influence you or the public? ",
           "targetRectangle" : {
-            "y" : 252.93850815296173,
+            "y" : 253.93850719928741,
             "x" : 234.156982421875,
-            "width" : 673.1904296875,
-            "height" : 88
+            "width" : 654.99609375,
+            "height" : 86
+          }
+        },
+        {
+          "text" : "AW",
+          "targetRectangle" : {
+            "y" : 593.02880930900574,
+            "x" : 71.293953001499176,
+            "width" : 40.9296875,
+            "height" : 31
+          }
+        },
+        {
+          "text" : "To what extent is the society influenced by Wanghongs?",
+          "targetRectangle" : {
+            "y" : 406.72753918170929,
+            "x" : 414.45721435546875,
+            "width" : 460.23046875,
+            "height" : 86
           }
         }
       ],
@@ -8104,10 +8104,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 599.4989128112793,
-                    "pointY" : 157.66507053375244
+                    "pointX" : 608.1180591583252,
+                    "pointY" : 157.66507005691528
                   },
-                  "width" : 587,
+                  "width" : 572,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -8134,7 +8134,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 39,
+                  "height" : 38,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -8151,8 +8151,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.49613131009615385,
-                      "textBaseline" : 0.73476392794878054,
+                      "textXHeight" : 0.49542557565789475,
+                      "textBaseline" : 0.74699403110303375,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -8176,10 +8176,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 309.5010871887207,
-                        "pointY" : 30.334929466247559
+                        "pointX" : 301.8819408416748,
+                        "pointY" : 29.334929943084717
                       },
-                      "width" : 587,
+                      "width" : 572,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -8206,14 +8206,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 39,
+                      "height" : 38,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "80C949680136224DB3D1395402253C38"
+                    "texture" : "E7B1847955EEA4A19315E8E3C0CDAEAA"
                   }
                 ]
               }
@@ -8794,10 +8794,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 562.156982421875,
-                    "pointY" : 290.43850815296173
+                    "pointX" : 553.156982421875,
+                    "pointY" : 290.43850719928741
                   },
-                  "width" : 664,
+                  "width" : 646,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -8824,7 +8824,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -8841,8 +8841,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88468952782182808,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88468160894181991,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -8866,10 +8866,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 336.843017578125,
-                        "pointY" : 51.561491847038269
+                        "pointX" : 327.843017578125,
+                        "pointY" : 50.561492800712585
                       },
-                      "width" : 664,
+                      "width" : 646,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -8896,14 +8896,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "3E55AED8CDAB9C8CDA87FEB85D946360"
+                    "texture" : "8C9BD04A3A17E72E526E583BC8516899"
                   }
                 ]
               }
@@ -8981,8 +8981,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 224.59585586211404,
-                    "pointY" : 607.30502010953569
+                    "pointX" : 224.59585571289062,
+                    "pointY" : 607.30502319335938
                   },
                   "width" : 518,
                   "sublayerTransform" : [
@@ -9047,8 +9047,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 257.40414413788596,
-                        "pointY" : 128.69497989046431
+                        "pointX" : 257.40414428710938,
+                        "pointY" : 128.69497680664062
                       },
                       "width" : 518,
                       "sublayerTransform" : [
@@ -9623,10 +9623,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 89.006842374801636,
-                    "pointY" : 600.02880829572678
+                    "pointX" : 89.293953001499176,
+                    "pointY" : 600.52880930900574
                   },
-                  "width" : 46,
+                  "width" : 45,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -9670,8 +9670,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.61389690896739135,
-                      "textBaseline" : 0.92692763649899024,
+                      "textXHeight" : 0.59115998641304346,
+                      "textBaseline" : 0.8717094400654668,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -9695,10 +9695,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 25.993157625198364,
-                        "pointY" : 19.971191704273224
+                        "pointX" : 24.706046998500824,
+                        "pointY" : 20.471190690994263
                       },
-                      "width" : 46,
+                      "width" : 45,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -9732,7 +9732,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "9A1F134FFFFAD917F3D4A2D3CA0E4583"
+                    "texture" : "FA8FBEB673D8EACCCB6403CCE46892A2"
                   }
                 ]
               }
@@ -10348,10 +10348,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 643.45721435546875,
-                    "pointY" : 443.22754013538361
+                    "pointX" : 637.45721435546875,
+                    "pointY" : 443.22753918170929
                   },
-                  "width" : 466,
+                  "width" : 454,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -10378,7 +10378,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 83,
+                  "height" : 81,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -10395,8 +10395,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.23312194088855423,
-                      "textBaseline" : 0.88214774447751332,
+                      "textXHeight" : 0.232421875,
+                      "textBaseline" : 0.88207706551492948,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -10420,10 +10420,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 235.54278564453125,
-                        "pointY" : 51.772459864616394
+                        "pointX" : 229.54278564453125,
+                        "pointY" : 50.77246081829071
                       },
-                      "width" : 466,
+                      "width" : 454,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -10450,14 +10450,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 83,
+                      "height" : 81,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C90BF352D540AE4A6FE32281D8CB9392"
+                    "texture" : "A488660B3056A7BEDE2E4F3AAB9E7B2E"
                   }
                 ]
               }

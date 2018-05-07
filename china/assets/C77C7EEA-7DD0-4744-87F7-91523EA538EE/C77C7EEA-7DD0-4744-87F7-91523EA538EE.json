@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "662F083F80300E3AA84D6A49A1D145D3" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/C77C7EEA-7DD0-4744-87F7-91523EA538EE.pdf"
+      },
+      "width" : 130,
+      "height" : 253
+    },
     "75D8A68EE09CDBE06C294377A3369569" : {
       "type" : "texture",
       "index" : 5,
@@ -14,9 +28,9 @@
       "width" : 139,
       "height" : 269
     },
-    "0C49FE42BFB6D9BDCAD837AD4D96C310" : {
+    "786D0F114A1C504DBD7EAF6C3E7A86F3" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 8,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,8 +39,8 @@
       "url" : {
         "native" : "assets\/C77C7EEA-7DD0-4744-87F7-91523EA538EE.pdf"
       },
-      "width" : 130,
-      "height" : 253
+      "width" : 1024,
+      "height" : 768
     },
     "EBFF7606670487E1636B16D1D1DFCB7D" : {
       "type" : "texture",
@@ -56,9 +70,9 @@
       "width" : 121,
       "height" : 291
     },
-    "786D0F114A1C504DBD7EAF6C3E7A86F3" : {
+    "6DF473C598CE1528EC0A6B4F68E16191" : {
       "type" : "texture",
-      "index" : 8,
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -84,9 +98,9 @@
       "width" : 130,
       "height" : 253
     },
-    "6DF473C598CE1528EC0A6B4F68E16191" : {
+    "498E23C82CA78A4BCD7BA88E5243B6FC" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -111,20 +125,6 @@
       },
       "width" : 154,
       "height" : 259
-    },
-    "498E23C82CA78A4BCD7BA88E5243B6FC" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/C77C7EEA-7DD0-4744-87F7-91523EA538EE.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
     }
   },
   "events" : [
@@ -2512,7 +2512,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0C49FE42BFB6D9BDCAD837AD4D96C310"
+                    "texture" : "662F083F80300E3AA84D6A49A1D145D3"
                   }
                 ]
               }
@@ -3498,12 +3498,12 @@
           }
         },
         {
-          "text" : "main-qimg-355dfa51d6c5357e4e4a1c46c0231ade-c.jpeg",
+          "text" : "nokia-n70.jpg",
           "targetRectangle" : {
-            "y" : 236.25125122070312,
-            "x" : 450.515625,
-            "width" : 118.34375,
-            "height" : 288.44735622406006
+            "y" : 270.47000122070312,
+            "x" : 248.10130310058594,
+            "width" : 127.87500023841858,
+            "height" : 250
           }
         },
         {
@@ -3511,17 +3511,17 @@
           "targetRectangle" : {
             "y" : 267.32937622070312,
             "x" : 629.67808532714844,
-            "width" : 151.15939021110535,
-            "height" : 256.28808975219727
+            "width" : 151.15631371736526,
+            "height" : 256.28284549713135
           }
         },
         {
-          "text" : "nokia-n70.jpg",
+          "text" : "main-qimg-355dfa51d6c5357e4e4a1c46c0231ade-c.jpeg",
           "targetRectangle" : {
-            "y" : 270.47000122070312,
-            "x" : 248.10130310058594,
-            "width" : 127.87500023841858,
-            "height" : 250
+            "y" : 236.25125122070312,
+            "x" : 450.515625,
+            "width" : 118.34375,
+            "height" : 288.44735622406006
           }
         }
       ],

@@ -2,6 +2,20 @@ local_slide( {
   "name" : "7B80E031-30EA-4C27-8391-E6C2A35C40CD",
   "json" : {
     "assets" : {
+      "662F083F80300E3AA84D6A49A1D145D3" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/7B80E031-30EA-4C27-8391-E6C2A35C40CD.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "498E23C82CA78A4BCD7BA88E5243B6FC" : {
         "type" : "texture",
         "index" : 0,
@@ -16,9 +30,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "0C49FE42BFB6D9BDCAD837AD4D96C310" : {
+      "F183F0137E46672EA4DE914DC2B7E812" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -27,8 +41,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/7B80E031-30EA-4C27-8391-E6C2A35C40CD.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 62,
+        "height" : 71
       },
       "D2CF9563CCC26914582B320B88BF05FB" : {
         "type" : "texture",
@@ -43,20 +57,6 @@ local_slide( {
         },
         "width" : 114,
         "height" : 81
-      },
-      "694A752631C7DE14A9C5C1235A22A291" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/7B80E031-30EA-4C27-8391-E6C2A35C40CD.pdf"
-        },
-        "width" : 63,
-        "height" : 72
       },
       "4F779A2FAAE97F3E74FC4CFEC443B8E5" : {
         "type" : "texture",
@@ -374,7 +374,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0C49FE42BFB6D9BDCAD837AD4D96C310"
+                      "texture" : "662F083F80300E3AA84D6A49A1D145D3"
                     },
                     {
                       "animations" : [
@@ -501,6 +501,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "quote-marks1.png",
+            "targetRectangle" : {
+              "y" : 215.60777282714847,
+              "x" : 77.695327758789077,
+              "width" : 111.81591033935545,
+              "height" : 77.661981799774338
+            }
+          },
+          {
             "text" : "        ow would social platforms and Wanghong culture shape and influence aesthetic standard and material desire across both genders?",
             "targetRectangle" : {
               "y" : 294.78070020675659,
@@ -512,19 +521,10 @@ local_slide( {
           {
             "text" : "H",
             "targetRectangle" : {
-              "y" : 275.3510913848877,
+              "y" : 275.5340895652771,
               "x" : 175.95147705078125,
-              "width" : 72.579999999999984,
+              "width" : 71.816000000000003,
               "height" : 95
-            }
-          },
-          {
-            "text" : "quote-marks1.png",
-            "targetRectangle" : {
-              "y" : 215.60777282714847,
-              "x" : 77.695327758789077,
-              "width" : 111.81591033935545,
-              "height" : 77.661981799774338
             }
           },
           {
@@ -1033,10 +1033,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 203.45147705078125,
-                      "pointY" : 307.3510913848877
+                      "pointX" : 202.95147705078125,
+                      "pointY" : 307.0340895652771
                     },
-                    "width" : 63,
+                    "width" : 62,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1063,7 +1063,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 72,
+                    "height" : 71,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1080,8 +1080,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.65708333333333335,
-                        "textBaseline" : 0.96320961829688811,
+                        "textXHeight" : 0.65932394366197178,
+                        "textBaseline" : 0.96526888306711756,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1105,10 +1105,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 39.54852294921875,
-                          "pointY" : 46.648908615112305
+                          "pointX" : 39.04852294921875,
+                          "pointY" : 46.9659104347229
                         },
-                        "width" : 63,
+                        "width" : 62,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1135,14 +1135,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 72,
+                        "height" : 71,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "694A752631C7DE14A9C5C1235A22A291"
+                      "texture" : "F183F0137E46672EA4DE914DC2B7E812"
                     }
                   ]
                 }

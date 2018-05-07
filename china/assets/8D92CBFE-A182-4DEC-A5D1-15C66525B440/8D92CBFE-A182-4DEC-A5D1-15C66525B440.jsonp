@@ -2,9 +2,9 @@ local_slide( {
   "name" : "8D92CBFE-A182-4DEC-A5D1-15C66525B440",
   "json" : {
     "assets" : {
-      "47C4AFDB9504F56EDB7D878B6DA00C9B" : {
+      "31C9A365DC6805776EF50245BE99E44A" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,24 +13,10 @@ local_slide( {
         "url" : {
           "native" : "assets\/8D92CBFE-A182-4DEC-A5D1-15C66525B440.pdf"
         },
-        "width" : 450,
-        "height" : 417
+        "width" : 1024,
+        "height" : 768
       },
-      "3187BA9F1FD941B1C1A079DEE041E2EC" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/8D92CBFE-A182-4DEC-A5D1-15C66525B440.pdf"
-        },
-        "width" : 450,
-        "height" : 417
-      },
-      "7DBE94138069ACAA8029DB2BB97C6373" : {
+      "568AE0D770F4666C4D2DD03E484DC54B" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -44,9 +30,9 @@ local_slide( {
         "width" : 450,
         "height" : 434
       },
-      "335B1D7681464D614E2F00FE330F144F" : {
+      "416EF1F04146D1C7168970EEC8A44A85" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,8 +41,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/8D92CBFE-A182-4DEC-A5D1-15C66525B440.pdf"
         },
-        "width" : 1024,
-        "height" : 768
+        "width" : 450,
+        "height" : 417
+      },
+      "85C32D4B2525E245CB615FFFFE8BE50B" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/8D92CBFE-A182-4DEC-A5D1-15C66525B440.pdf"
+        },
+        "width" : 450,
+        "height" : 417
       },
       "7D96868F53C0C9836CD9E3E6622C66A5" : {
         "type" : "texture",
@@ -388,7 +388,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "335B1D7681464D614E2F00FE330F144F"
+                      "texture" : "31C9A365DC6805776EF50245BE99E44A"
                     },
                     {
                       "animations" : [
@@ -515,39 +515,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Slim body shape",
+            "targetRectangle" : {
+              "y" : 725.37341344356537,
+              "x" : 213.47105407714844,
+              "width" : 147.861328125,
+              "height" : 24
+            }
+          },
+          {
             "text" : "鹿晗",
             "targetRectangle" : {
-              "y" : 556.90618878602982,
-              "x" : 860.64703381061554,
-              "width" : 38,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "High nose ridge",
-            "targetRectangle" : {
-              "y" : 676.70355159044266,
-              "x" : 213.47105407714844,
-              "width" : 147.09228515625,
+              "y" : 557.40618830919266,
+              "x" : 862.64703488349915,
+              "width" : 36,
               "height" : 25
-            }
-          },
-          {
-            "text" : "25012564_159117514843996_7989603506682068992_n.jpg",
-            "targetRectangle" : {
-              "y" : 68.250288963317871,
-              "x" : 89.851556539535522,
-              "width" : 380.22872924804688,
-              "height" : 361.25000023795934
-            }
-          },
-          {
-            "text" : "21042590_271645479999996_6019360845316751360_n.jpg",
-            "targetRectangle" : {
-              "y" : 68.250296592712402,
-              "x" : 553.92967796325684,
-              "width" : 380.22958374023438,
-              "height" : 361.25
             }
           },
           {
@@ -560,6 +542,33 @@ local_slide( {
             }
           },
           {
+            "text" : "Fashionable",
+            "targetRectangle" : {
+              "y" : 677.20355260372162,
+              "x" : 677.5491943359375,
+              "width" : 108.96484375,
+              "height" : 24
+            }
+          },
+          {
+            "text" : "Handsome",
+            "targetRectangle" : {
+              "y" : 628.51239049434662,
+              "x" : 677.5491943359375,
+              "width" : 96.71875,
+              "height" : 24
+            }
+          },
+          {
+            "text" : "High nose ridge",
+            "targetRectangle" : {
+              "y" : 677.20355260372162,
+              "x" : 213.47105407714844,
+              "width" : 140.087890625,
+              "height" : 24
+            }
+          },
+          {
             "text" : "Dilraba Dilmurat",
             "targetRectangle" : {
               "y" : 514.92700242996216,
@@ -569,74 +578,65 @@ local_slide( {
             }
           },
           {
+            "text" : "21042590_271645479999996_6019360845316751360_n.jpg",
+            "targetRectangle" : {
+              "y" : 68.250296592712402,
+              "x" : 553.92967796325684,
+              "width" : 380.22958374023438,
+              "height" : 361.25
+            }
+          },
+          {
             "text" : "Tip chin",
             "targetRectangle" : {
-              "y" : 628.01238948106766,
+              "y" : 628.51239049434662,
               "x" : 213.47105407714844,
-              "width" : 72.76171875,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Tall",
-            "targetRectangle" : {
-              "y" : 579.11865168809891,
-              "x" : 677.5491943359375,
-              "width" : 31.51025390625,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "Big eyes",
-            "targetRectangle" : {
-              "y" : 579.11865168809891,
-              "x" : 213.47105407714844,
-              "width" : 80.54443359375,
-              "height" : 25
-            }
-          },
-          {
-            "text" : "迪丽热巴",
-            "targetRectangle" : {
-              "y" : 556.90618878602982,
-              "x" : 358.56891393661499,
-              "width" : 76,
-              "height" : 26
-            }
-          },
-          {
-            "text" : "Fashionable",
-            "targetRectangle" : {
-              "y" : 676.70355159044266,
-              "x" : 677.5491943359375,
-              "width" : 114.4130859375,
-              "height" : 25
+              "width" : 69.296875,
+              "height" : 24
             }
           },
           {
             "text" : "Tending brands cloths",
             "targetRectangle" : {
-              "y" : 724.87341243028641,
+              "y" : 725.37341344356537,
               "x" : 677.5491943359375,
-              "width" : 204.298828125,
-              "height" : 25
+              "width" : 194.5703125,
+              "height" : 24
             }
           },
           {
-            "text" : "Slim body shape",
+            "text" : "Tall",
             "targetRectangle" : {
-              "y" : 724.87341243028641,
+              "y" : 579.61865270137787,
+              "x" : 677.5491943359375,
+              "width" : 30.009765625,
+              "height" : 24
+            }
+          },
+          {
+            "text" : "Big eyes",
+            "targetRectangle" : {
+              "y" : 579.61865270137787,
               "x" : 213.47105407714844,
-              "width" : 155.25439453125,
-              "height" : 25
+              "width" : 76.708984375,
+              "height" : 24
             }
           },
           {
-            "text" : "Handsome",
+            "text" : "25012564_159117514843996_7989603506682068992_n.jpg",
             "targetRectangle" : {
-              "y" : 628.01238948106766,
-              "x" : 677.5491943359375,
-              "width" : 101.5546875,
+              "y" : 68.250288963317871,
+              "x" : 89.851556539535522,
+              "width" : 380.22958374023438,
+              "height" : 361.25
+            }
+          },
+          {
+            "text" : "迪丽热巴",
+            "targetRectangle" : {
+              "y" : 557.40618830919266,
+              "x" : 362.5689160823822,
+              "width" : 72,
               "height" : 25
             }
           }
@@ -1053,7 +1053,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "7DBE94138069ACAA8029DB2BB97C6373"
+                      "texture" : "568AE0D770F4666C4D2DD03E484DC54B"
                     }
                   ]
                 }
@@ -1234,7 +1234,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "3187BA9F1FD941B1C1A079DEE041E2EC"
+                      "texture" : "416EF1F04146D1C7168970EEC8A44A85"
                     }
                   ]
                 }
@@ -1596,7 +1596,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "47C4AFDB9504F56EDB7D878B6DA00C9B"
+                      "texture" : "85C32D4B2525E245CB615FFFFE8BE50B"
                     }
                   ]
                 }

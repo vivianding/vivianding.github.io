@@ -1,6 +1,20 @@
 {
   "assets" : {
-    "0C49FE42BFB6D9BDCAD837AD4D96C310" : {
+    "F183F0137E46672EA4DE914DC2B7E812" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/01BB2724-2308-47DE-84A3-A997C572EC93.pdf"
+      },
+      "width" : 62,
+      "height" : 71
+    },
+    "662F083F80300E3AA84D6A49A1D145D3" : {
       "type" : "texture",
       "index" : 6,
       "assetRequest" : {
@@ -28,9 +42,9 @@
       "width" : 114,
       "height" : 81
     },
-    "694A752631C7DE14A9C5C1235A22A291" : {
+    "869BF2A6349E12D962504396298B5FA1" : {
       "type" : "texture",
-      "index" : 2,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -39,8 +53,8 @@
       "url" : {
         "native" : "assets\/01BB2724-2308-47DE-84A3-A997C572EC93.pdf"
       },
-      "width" : 63,
-      "height" : 72
+      "width" : 115,
+      "height" : 81
     },
     "4F779A2FAAE97F3E74FC4CFEC443B8E5" : {
       "type" : "texture",
@@ -56,21 +70,7 @@
       "width" : 725,
       "height" : 169
     },
-    "869BF2A6349E12D962504396298B5FA1" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/01BB2724-2308-47DE-84A3-A997C572EC93.pdf"
-      },
-      "width" : 115,
-      "height" : 81
-    },
-    "BB61213EFCE1F9A43A681F48D99080D0" : {
+    "5489DE5F0B9D7831F9AD8CD6EDF2ECF3" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -280,7 +280,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "BB61213EFCE1F9A43A681F48D99080D0"
+                    "texture" : "5489DE5F0B9D7831F9AD8CD6EDF2ECF3"
                   },
                   {
                     "animations" : [
@@ -386,7 +386,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "0C49FE42BFB6D9BDCAD837AD4D96C310"
+                    "texture" : "662F083F80300E3AA84D6A49A1D145D3"
                   },
                   {
                     "animations" : [
@@ -513,30 +513,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "quote-marks1.png",
-          "targetRectangle" : {
-            "y" : 449.79238128662109,
-            "x" : 812.0645751953125,
-            "width" : 111.81591033935547,
-            "height" : 77.661981799774367
-          }
-        },
-        {
           "text" : "H",
           "targetRectangle" : {
-            "y" : 275.3510913848877,
+            "y" : 275.5340895652771,
             "x" : 175.95147705078125,
-            "width" : 72.579999999999984,
+            "width" : 71.816000000000003,
             "height" : 95
-          }
-        },
-        {
-          "text" : "quote-marks1.png",
-          "targetRectangle" : {
-            "y" : 215.60777282714847,
-            "x" : 77.695327758789077,
-            "width" : 111.81591033935545,
-            "height" : 77.661981799774338
           }
         },
         {
@@ -546,6 +528,24 @@
             "x" : 177.35264587402344,
             "width" : 729.67400000000021,
             "height" : 195
+          }
+        },
+        {
+          "text" : "quote-marks1.png",
+          "targetRectangle" : {
+            "y" : 449.79238128662109,
+            "x" : 812.0645751953125,
+            "width" : 111.81591033935547,
+            "height" : 77.661981799774367
+          }
+        },
+        {
+          "text" : "quote-marks1.png",
+          "targetRectangle" : {
+            "y" : 215.60777282714847,
+            "x" : 77.695327758789077,
+            "width" : 111.81591033935545,
+            "height" : 77.661981799774338
           }
         }
       ],
@@ -1045,10 +1045,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 203.45147705078125,
-                    "pointY" : 307.3510913848877
+                    "pointX" : 202.95147705078125,
+                    "pointY" : 307.0340895652771
                   },
-                  "width" : 63,
+                  "width" : 62,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -1075,7 +1075,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 72,
+                  "height" : 71,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -1092,8 +1092,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.65708333333333335,
-                      "textBaseline" : 0.96320961829688811,
+                      "textXHeight" : 0.65932394366197178,
+                      "textBaseline" : 0.96526888306711756,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1117,10 +1117,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 39.54852294921875,
-                        "pointY" : 46.648908615112305
+                        "pointX" : 39.04852294921875,
+                        "pointY" : 46.9659104347229
                       },
-                      "width" : 63,
+                      "width" : 62,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -1147,14 +1147,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 72,
+                      "height" : 71,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "694A752631C7DE14A9C5C1235A22A291"
+                    "texture" : "F183F0137E46672EA4DE914DC2B7E812"
                   }
                 ]
               }

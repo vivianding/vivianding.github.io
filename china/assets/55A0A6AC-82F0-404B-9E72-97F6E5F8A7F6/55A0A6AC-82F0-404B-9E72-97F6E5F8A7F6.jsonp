@@ -72,6 +72,20 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
+      "D65AD59EF379EB6F9DA5DEB8C605A474" : {
+        "type" : "texture",
+        "index" : 12,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/55A0A6AC-82F0-404B-9E72-97F6E5F8A7F6.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "D6ADDC42120786C6240B9F684D7BDB1E" : {
         "type" : "texture",
         "index" : 4,
@@ -155,20 +169,6 @@ local_slide( {
         },
         "width" : 288,
         "height" : 549
-      },
-      "5E2B5874CD4F7500F2B408ACC022D892" : {
-        "type" : "texture",
-        "index" : 12,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/55A0A6AC-82F0-404B-9E72-97F6E5F8A7F6.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       },
       "5F03E095D6C767BB3A51FFA01C276CB2" : {
         "type" : "texture",
@@ -472,7 +472,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E2B5874CD4F7500F2B408ACC022D892"
+                      "texture" : "D65AD59EF379EB6F9DA5DEB8C605A474"
                     },
                     {
                       "animations" : [
@@ -599,55 +599,10 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "316x0w-2.jpg",
+            "text" : "316x0w-1.jpg",
             "targetRectangle" : {
-              "y" : 938.2674560546875,
-              "x" : 774.341552734375,
-              "width" : 219.90643310546875,
-              "height" : 476
-            }
-          },
-          {
-            "text" : "316x0w-5.jpg",
-            "targetRectangle" : {
-              "y" : -155.6119384765625,
+              "y" : 262.31915283203125,
               "x" : 526.1959228515625,
-              "width" : 219.75381469726562,
-              "height" : 390.82797241210938
-            }
-          },
-          {
-            "text" : "316x0w.jpg",
-            "targetRectangle" : {
-              "y" : 19.212310791015625,
-              "x" : 278.05029296875,
-              "width" : 219.75381469726562,
-              "height" : 390.8280029296875
-            }
-          },
-          {
-            "text" : "316x0w-3.jpg",
-            "targetRectangle" : {
-              "y" : 22.85174560546875,
-              "x" : 774.341552734375,
-              "width" : 219.90643310546875,
-              "height" : 476
-            }
-          },
-          {
-            "text" : "316x0w-3.jpg",
-            "targetRectangle" : {
-              "y" : -242.92617797851562,
-              "x" : 29.751991271972656,
-              "width" : 219.90643310546875,
-              "height" : 476
-            }
-          },
-          {
-            "text" : "316x0w.jpg",
-            "targetRectangle" : {
-              "y" : 430.36013793945312,
-              "x" : 278.05029296875,
               "width" : 219.75381469726562,
               "height" : 475.66964721679688
             }
@@ -662,12 +617,21 @@ local_slide( {
             }
           },
           {
-            "text" : "316x0w-1.jpg",
+            "text" : "316x0w-3.jpg",
             "targetRectangle" : {
-              "y" : 259.55181884765625,
-              "x" : 27.179176330566406,
-              "width" : 222.479248046875,
-              "height" : 481.5689697265625
+              "y" : 22.85174560546875,
+              "x" : 774.341552734375,
+              "width" : 219.90643310546875,
+              "height" : 476
+            }
+          },
+          {
+            "text" : "316x0w.jpg",
+            "targetRectangle" : {
+              "y" : 19.212310791015625,
+              "x" : 278.05029296875,
+              "width" : 219.75381469726562,
+              "height" : 390.8280029296875
             }
           },
           {
@@ -680,10 +644,19 @@ local_slide( {
             }
           },
           {
-            "text" : "316x0w-1.jpg",
+            "text" : "316x0w-2.jpg",
             "targetRectangle" : {
-              "y" : 262.31915283203125,
-              "x" : 526.1959228515625,
+              "y" : 938.2674560546875,
+              "x" : 774.341552734375,
+              "width" : 219.90643310546875,
+              "height" : 476
+            }
+          },
+          {
+            "text" : "316x0w.jpg",
+            "targetRectangle" : {
+              "y" : 430.36013793945312,
+              "x" : 278.05029296875,
               "width" : 219.75381469726562,
               "height" : 475.66964721679688
             }
@@ -695,6 +668,33 @@ local_slide( {
               "x" : 29.828300476074219,
               "width" : 219.75381469726562,
               "height" : 475.66970825195312
+            }
+          },
+          {
+            "text" : "316x0w-5.jpg",
+            "targetRectangle" : {
+              "y" : -155.6119384765625,
+              "x" : 526.1959228515625,
+              "width" : 219.75381469726562,
+              "height" : 390.82797241210938
+            }
+          },
+          {
+            "text" : "316x0w-1.jpg",
+            "targetRectangle" : {
+              "y" : 259.55181884765625,
+              "x" : 27.179176330566406,
+              "width" : 222.479248046875,
+              "height" : 481.5689697265625
+            }
+          },
+          {
+            "text" : "316x0w-3.jpg",
+            "targetRectangle" : {
+              "y" : -242.92617797851562,
+              "x" : 29.751991271972656,
+              "width" : 219.90643310546875,
+              "height" : 476
             }
           }
         ],

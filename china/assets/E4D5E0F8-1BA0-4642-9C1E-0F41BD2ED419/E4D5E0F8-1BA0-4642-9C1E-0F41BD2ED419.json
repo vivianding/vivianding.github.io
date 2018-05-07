@@ -625,21 +625,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "camera-56e0976d3df78c5ba0566b37.jpg",
-          "targetRectangle" : {
-            "y" : 181.81250429153442,
-            "x" : -486.31389570236206,
-            "width" : 610.9375,
-            "height" : 404.375
-          }
-        },
-        {
           "text" : "1031177565.jpg",
           "targetRectangle" : {
             "y" : 181.8125,
             "x" : 228.16702270507812,
             "width" : 610.9375,
             "height" : 404.375
+          }
+        },
+        {
+          "text" : "transfer pictures from camera to computer",
+          "targetRectangle" : {
+            "y" : 459.60012829303741,
+            "x" : -314.56915283203125,
+            "width" : 384.099609375,
+            "height" : 86
           }
         },
         {
@@ -661,10 +661,10 @@
           }
         },
         {
-          "text" : "1.jpg",
+          "text" : "camera-56e0976d3df78c5ba0566b37.jpg",
           "targetRectangle" : {
-            "y" : 181.8125,
-            "x" : -1205.1484375,
+            "y" : 181.81250429153442,
+            "x" : -486.31389570236206,
             "width" : 610.9375,
             "height" : 404.375
           }
@@ -679,12 +679,12 @@
           }
         },
         {
-          "text" : "transfer pictures from camera to computer",
+          "text" : "1.jpg",
           "targetRectangle" : {
-            "y" : 459.60012829303741,
-            "x" : -314.56915283203125,
-            "width" : 384.099609375,
-            "height" : 86
+            "y" : 181.8125,
+            "x" : -1205.1484375,
+            "width" : 610.9375,
+            "height" : 404.375
           }
         }
       ],
